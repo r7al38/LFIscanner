@@ -39,7 +39,7 @@ Local File Inclusion (LFI) is a web vulnerability that allows attackers to inclu
 ```bash
 # Clone the repository
 git clone https://github.com/r7al38/LFIscanner.git
-cd lfi-scanner
+cd lFIscanner
 
 # Install dependencies
 pip3 install -r requirements.txt
