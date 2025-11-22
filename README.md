@@ -38,7 +38,7 @@ Local File Inclusion (LFI) is a web vulnerability that allows attackers to inclu
 ### Install
 ```bash
 # Clone the repository
-git clone https://github.com/r7al38/lfi-scanner.git
+git clone https://github.com/r7al38/LFIscanner.git
 cd lfi-scanner
 
 # Install dependencies
@@ -74,11 +74,11 @@ python3 lfi_scanner.py -f targets.txt -o results.txt --timeout 5
 
 ## 🚀 Output
 ```bash
-╔══════════════════════════════════════════════════════════════╗
-║                         LFI SCANNER                          ║
-║                    Developed by r7al38                       ║
-║                        Version 1.0                           ║
-╚══════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════╗
+║                  LFI                    ║
+║          Developed by r7al38            ║
+║              Version 1.0                ║
+╚═════════════════════════════════════════╝
 
 [*] Starting LFI scan on 1 target(s)
 [*] Threads: 10, Timeout: 10s
