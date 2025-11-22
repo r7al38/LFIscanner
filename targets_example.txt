@@ -1,0 +1,10 @@
+# Example targets for LFI scanning
+# One URL per line
+
+http://example.com/page.php?file=index
+http://test.com/view.php?page=home
+http://target.com/include.php?path=template
+http://vulnerable-site.com/load.php?document=readme
+
+# Add your test targets below
+# Make sure you have permission to test these domains
